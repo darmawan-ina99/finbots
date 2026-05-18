@@ -1,2 +1,0 @@
-# finbots
-Semudah Chat
